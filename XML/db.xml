@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Пылесос LG</name>
+        <price>120</price>
+        <img>IMG/пылесос.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+            <desc>Машина для уборки пыли и загрязнений с поверхностей за счёт всасывания потоком воздуха.</desc>
+            <desc>Пыль и загрязнения накапливаются в пылесборнике, из которого они должны регулярно удаляться.</desc>
+            <desc>Возможности уборки: сухая</desc>
+            <desc>Объем пылесборника: 3 л</desc>
+        </descs>
+        <type>Пылесос</type>
+    </product>
+    <product>
+        <name>Кодиционер Sony</name>
+        <price>420</price>
+        <img>IMG/кондиционер.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>red</color>
+            <color>darkblue</color>
+        </colors>
+        <descs>
+            <desc>Устройство для поддержания оптимальных климатических условий в квартирах, домах, офисах, а также для очистки воздуха в помещении от нежелательных частиц.</desc>
+            <desc>Тип кондиционера сплит-система</desc>
+            <desc>Тип внутреннего блока настенный</desc>
+            <desc>Обслуживаемая площадь до 20 м2</desc>
+        </descs>
+        <type>Кондиционер</type>
+    </product>
+    <product>
+        <name>Соковыжималка Haier</name>
+        <price>10</price>
+        <img>IMG/кофемашина.jpg</img>
+        <colors>
+            <color>orange</color>
+            <color>yellow</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Машина способная извлекать из ягод, фруктов и овощей сок</desc>
+        <desc>Вид: универсальная</desc>
+        <desc>Мощность: 1200 Вта</desc>
+        <desc>Количество скоростей: 2</desc>
+        </descs>
+        <type>Соковыжималка</type>
+    </product>
+    <product>
+        <name>Морозильник LG</name>
+        <price>1430</price>
+        <img>IMG/морозильник.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc> камера бытового холодильника для быстрого замораживания и хранения скоропортящихся продуктов, в которой поддерживается температура не выше 18°С. </desc>
+        <desc>Установка: отдельно стоящий</desc>
+        <desc>Кол-во отделений: 3</desc>
+        <desc>Класс энергопотребления: A+</desc>
+        </descs>
+        <type>Морозильник</type>
+    </product>
+    <product>
+        <name>Пылесос Haier</name>
+        <price>199</price>
+        <img>IMG/пылесос.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Пылесосом можно убрать пыль, грязь и мелкий мусор с гладкого пола, ковра и мягкой мебели. </desc>
+        <desc>Возможности уборки: сухая</desc>
+        <desc>Объем пылесборника: 0.8 л</desc>
+        <desc>Потребляемая мощность: 600 Вт</desc>
+        </descs>
+        <type>Пылесос</type>
+    </product>
+    <product>
+        <name>Пылесос Dyson</name>
+        <price>229</price>
+        <img>IMG/пылесос2.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Конструкция: вертикальный пылесос</desc>
+        <desc>Возможность уборки: сухая</desc>
+        <desc>Объем пылесборника: 0.7 л</desc>
+        <desc>Мощность: 700Вт</desc>
+        </descs>
+        <type>Пылесос</type>
+    </product>
+    <product>
+        <name>Стиральная машина LG</name>
+        <price>2000</price>
+        <img>IMG/стиралка.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Машина для чистки одежды</desc>
+        <desc>Цвет: темно серый</desc>
+        <desc>Вес: 200кг</desc>
+        <desc>Обьем: 300 л</desc>
+        </descs>
+        <type>Стиральная машина</type>
+    </product>
+    <product>
+        <name>Увлажнитель Dyson</name>
+        <price>1999</price>
+        <img>IMG/увлажнитель.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Машина для увлажнения воздуха</desc>
+        <desc>Обьем: 5л</desc>
+        <desc>Цвет: белый</desc>
+        <desc>Чаша: пластмасса </desc>
+        </descs>
+        <type>Увлажнитель</type>
+    </product>
+    <product>
+        <name>Холодильник LG</name>
+        <price>3990</price>
+        <img>IMG/холодильник.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Машина для охлаждения еды</desc>
+        <desc>Цвет: серый</desc>
+        <desc>Тип: двухдверный</desc>
+        <desc>Объем: 350 л</desc>
+        </descs>
+        <type>Холодильник</type>
+    </product>
+    <product>
+        <name>Холодильник Sony</name>
+        <price>666</price>
+        <img>IMG/холодильник2.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Машина для охлаждения еды</desc>
+        <desc>Цвет: светло серый</desc>
+        <desc>Тип: двухдверный</desc>
+        <desc>Объем: 300 л</desc>
+        </descs>
+        <type>Холодильник</type>
+    </product>
+    <product>
+        <name>Холодильник Haier</name>
+        <price>260</price>
+        <img>IMG/холодильник3.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Машина для охлаждения еды</desc>
+        <desc>Цвет: кремовый</desc>
+        <desc>Тип: двухдверный</desc>
+        <desc>Объем: 370 л</desc>
+        </descs>
+        <type>Холодильник</type>
+    </product>
+    <product>
+        <name>Телевизор Samsung</name>
+        <price>890</price>
+        <img>IMG/TV.jpg</img>
+        <colors>
+            <color>black</color>
+            <color>gray</color>
+            <color>white</color>
+        </colors>
+        <descs>
+        <desc>Матрица: OLED </desc>
+        <desc>Цвет: черный</desc>
+        <desc>Диагональ: 50</desc>
+        <desc>Цвет: насыщенный</desc>
+        </descs>
+        <type>Телевизор</type>
+    </product>
+</products>
